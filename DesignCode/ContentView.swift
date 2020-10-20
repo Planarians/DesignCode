@@ -11,6 +11,16 @@ struct ContentView: View {
     var body: some View {
         ZStack {
             VStack {
+                Text("Card Back")
+                Spacer()
+            }
+            .frame(width: 300.0, height: 220.0)//
+            .background(Color.blue)
+            .cornerRadius(20)
+            .shadow(radius: 20)
+            .offset(x: 0, y: -20.0)
+            
+            VStack {
                 HStack {
                     VStack(alignment: .leading) {
                         Text("UI Design")
