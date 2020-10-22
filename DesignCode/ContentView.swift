@@ -2,8 +2,7 @@
 //  ContentView.swift
 //  DesignCode
 //
-//  Created by Meng To on 12/16/19.
-//  Copyright © 2019 Meng To. All rights reserved.
+//  Created by 小石头 on 2020/10/19.
 //
 
 import SwiftUI
