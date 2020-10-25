@@ -15,6 +15,7 @@
 		280A8A40253D4F580011B9C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 280A8A3E253D4F580011B9C2 /* LaunchScreen.storyboard */; };
 		280A8A4B253D4F580011B9C2 /* DesignCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 280A8A4A253D4F580011B9C2 /* DesignCodeTests.swift */; };
 		280A8A56253D4F580011B9C2 /* DesignCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 280A8A55253D4F580011B9C2 /* DesignCodeUITests.swift */; };
+		288EC5CE2545222900DD0341 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288EC5CD2545222900DD0341 /* Home.swift */; };
 		28E6977E25444AE9005E0B97 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E6977D25444AE9005E0B97 /* MenuView.swift */; };
 /* End PBXBuildFile section */
 
@@ -50,6 +51,7 @@
 		280A8A51253D4F580011B9C2 /* DesignCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DesignCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		280A8A55253D4F580011B9C2 /* DesignCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCodeUITests.swift; sourceTree = "<group>"; };
 		280A8A57253D4F580011B9C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		288EC5CD2545222900DD0341 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		28E6977D25444AE9005E0B97 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -104,6 +106,7 @@
 				280A8A33253D4F560011B9C2 /* AppDelegate.swift */,
 				280A8A35253D4F560011B9C2 /* SceneDelegate.swift */,
 				280A8A37253D4F560011B9C2 /* ContentView.swift */,
+				288EC5CD2545222900DD0341 /* Home.swift */,
 				28E6977D25444AE9005E0B97 /* MenuView.swift */,
 				280A8A39253D4F580011B9C2 /* Assets.xcassets */,
 				280A8A3E253D4F580011B9C2 /* LaunchScreen.storyboard */,
@@ -271,6 +274,7 @@
 			files = (
 				280A8A34253D4F560011B9C2 /* AppDelegate.swift in Sources */,
 				28E6977E25444AE9005E0B97 /* MenuView.swift in Sources */,
+				288EC5CE2545222900DD0341 /* Home.swift in Sources */,
 				280A8A36253D4F560011B9C2 /* SceneDelegate.swift in Sources */,
 				280A8A38253D4F560011B9C2 /* ContentView.swift in Sources */,
 			);
